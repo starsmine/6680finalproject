@@ -361,9 +361,6 @@ dfe_project_clean/
 
 ## VII. References & Data Sheets
 
-- **Fixed-Point Arithmetic:** "Fixed-Point DSP in FPGA/ASIC", typical Q-format conventions (Q#.#)
-- **DFE Theory:** "Digital Communication Receivers" (Meyr, Moeneclaey, Fettweis), Chapters 5–6
-- **ModelSim/Questa:** SystemVerilog LRM 1800-2017, $readmemh file format documentation
 - **MATLAB:** Communications Toolbox documentation (eye diagram, BER measurement)
 
 ---
